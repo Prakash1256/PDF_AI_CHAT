@@ -1,7 +1,8 @@
 # PDF Chat Application
 
 
-<img width="1911" height="916" alt="image" src="https://github.com/user-attachments/assets/3d41fb66-d11e-41da-8e2f-82339fb897f1" />
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/52aa07ed-1009-4470-a5f7-b300d9058a21" />
+
 
 <img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/99b46035-b0b8-4405-bd71-4e82b4c421b0" />
 
