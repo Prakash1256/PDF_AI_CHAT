@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+
+/* Hide scrollbars */
+.scrollbar-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* PDF Page Container Styles */
+.pdf-page-container {
+  width: 100% !important;
+  max-width: 90% !important;
+}
+
+.pdf-page-container canvas {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100% !important;
+}
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+  .pdf-page-container {
+    padding: 8px !important;
+  }
+  
+  .pdf-page-container > div {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  
+  .pdf-page-container canvas {
+    width: 100% !important;
+    max-width: calc(100vw - 16px) !important;
+  }
+}
