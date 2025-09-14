@@ -27,10 +27,7 @@ coverage/
 .env.test.local
 .env.production.local
 
-# Build output
-build/
-tmp/
-temp/
+
 
 # TypeScript cache
 *.tsbuildinfo
